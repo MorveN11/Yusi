@@ -1,0 +1,6 @@
+# Outputs
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
